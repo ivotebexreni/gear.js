@@ -1,2 +1,2 @@
 # GearJs
-Create SVG Gears on browser
+Draw and animate geometrically correct gears using SVG on browser

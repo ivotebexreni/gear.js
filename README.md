@@ -1,2 +1,2 @@
-# gear.js
+# Gear.js
 Create SVG Gears on browser
